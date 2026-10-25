@@ -17,7 +17,7 @@ export const RESUME_DATA: ResumeData = {
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/LEAFCLOUD_ORG/template-cv",
+        url: "https://github.com/asha-rao",
         icon: "github",
       },
       {
@@ -159,7 +159,7 @@ export const RESUME_DATA: ResumeData = {
       techStack: ["TypeScript", "Next.js", "Tailwind CSS"],
       description:
         "Open source, print-friendly CV template. 9,600+ stars on GitHub",
-      link: "https://github.com/LEAFCLOUD_ORG/template-cv/cv",
+      link: "https://github.com/asha-rao/cv",
     },
   ],
 };
