@@ -7,3 +7,5 @@
 - Preview: https://tpl-cv.leafcloud.app (not live: LeafCloud site limit)
 
 Adaptation: added LeafCloud setup guidance, fictionalized visible author/demo identity where found, and configured static output where required. Original visual design retained.
+
+Static export fixes: set `output: "export"`, `images.unoptimized`, and `dynamic = "force-static"` on the metadata routes. Removed unsupported custom headers and replaced the upstream portrait with a fictional initials graphic. `pnpm run build` passes.

@@ -1,5 +1,5 @@
 import type { ResumeData } from "@/lib/types";
-import avatar from "./avatar.jpg";
+import avatar from "./avatar.png";
 
 export const RESUME_DATA: ResumeData = {
   name: "Asha Rao",
@@ -22,7 +22,7 @@ export const RESUME_DATA: ResumeData = {
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/asha-rao/",
         icon: "linkedin",
       },
       {
