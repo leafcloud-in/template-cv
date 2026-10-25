@@ -47,8 +47,6 @@ leaf deploy --yes
 
 LeafCloud will publish the site at `https://<your-site>.leafcloud.app`.
 
-The local preview is available at http://localhost:4321 for Astro templates or http://localhost:3000 for CV.
-
 ## Changing it later
 
 Ask your agent: “add my new project and redeploy”. AGENTS.md tells it which files to update and how to build and publish again.
