@@ -1,4 +1,3 @@
-import { Analytics } from "@vercel/analytics/react";
 import { GeistMono } from "geist/font/mono";
 import type { Metadata, Viewport } from "next";
 import localFont from "next/font/local";
@@ -79,7 +78,7 @@ export default function RootLayout({
     >
       <body>
         {children}
-        <Analytics />
+        
       </body>
     </html>
   );

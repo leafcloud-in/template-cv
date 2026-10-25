@@ -2,22 +2,22 @@ import type { ResumeData } from "@/lib/types";
 import avatar from "./avatar.jpg";
 
 export const RESUME_DATA: ResumeData = {
-  name: "Bartosz Jarocki",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
-  about: "Full Stack Engineer building products from the ground up.",
+  name: "Asha Rao",
+  location: "Bengaluru, India, IST",
+  locationLink: "https://maps.google.com/?q=Bengaluru",
+  about: "Computer science student building useful web projects.",
   summary:
-    "Full Stack Engineer with 15+ years of experience and 10+ years working remotely. Building high-performance web applications, leading distributed teams, and creating open source tools used by thousands of developers.",
+    "Student interested in accessible web applications, thoughtful interface design, and open source.",
   avatar,
-  siteUrl: "https://cv.jarocki.me",
-  personalWebsiteUrl: "https://jarocki.me",
+  siteUrl: "https://tpl-cv.leafcloud.app",
+  personalWebsiteUrl: "https://example.com",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "hello@example.com",
+    tel: "",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/asha-rao",
         icon: "github",
       },
       {
@@ -27,7 +27,7 @@ export const RESUME_DATA: ResumeData = {
       },
       {
         name: "X",
-        url: "https://x.com/BartoszJarocki",
+        url: "https://x.com/asha-rao",
         icon: "x",
       },
     ],
@@ -42,7 +42,7 @@ export const RESUME_DATA: ResumeData = {
   ],
   work: [
     {
-      company: "Motion",
+      company: "Student Projects",
       link: "https://motionapp.com/",
       badges: ["Remote", "AI", "React", "Next.js", "TypeScript", "AdonisJS"],
       title: "Senior Software Engineer",
@@ -52,7 +52,7 @@ export const RESUME_DATA: ResumeData = {
         "Building an internal AI agents platform that enables marketing teams to create and manage AI-powered workflows.",
     },
     {
-      company: "Film.io",
+      company: "Campus Lab",
       link: "https://film.io",
       badges: ["Remote", "React", "Next.js", "TypeScript", "Node.js"],
       title: "Software Architect",
@@ -67,7 +67,7 @@ export const RESUME_DATA: ResumeData = {
       ],
     },
     {
-      company: "Parabol",
+      company: "Open Source",
       link: "https://parabol.co",
       badges: [
         "Remote",
@@ -89,7 +89,7 @@ export const RESUME_DATA: ResumeData = {
       ],
     },
     {
-      company: "Clevertech",
+      company: "Community Lab",
       link: "https://clevertech.biz",
       badges: ["Remote", "React", "TypeScript", "Node.js", "Android", "Kotlin"],
       title: "Lead Android Developer → Full Stack Developer",
@@ -159,7 +159,7 @@ export const RESUME_DATA: ResumeData = {
       techStack: ["TypeScript", "Next.js", "Tailwind CSS"],
       description:
         "Open source, print-friendly CV template. 9,600+ stars on GitHub",
-      link: "https://github.com/BartoszJarocki/cv",
+      link: "https://github.com/asha-rao/cv",
     },
   ],
 };

@@ -1,0 +1,3 @@
+site = "tpl-cv"
+dir = "out"
+build = "pnpm run build"

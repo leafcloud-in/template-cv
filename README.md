@@ -1,6 +1,6 @@
 ![screenshot of cv.jarocki.me, a CV built with this template](.github/screenshot.png)
 
-<h1>minimalist cv <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FBartoszJarocki%2Fcv"><img src="https://vercel.com/button" alt="Deploy with Vercel" height="24" align="right"></a></h1>
+<h1>minimalist cv <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fasha-rao%2Fcv"><img src="https://vercel.com/button" alt="Deploy with Vercel" height="24" align="right"></a></h1>
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue?logo=typescript)](https://www.typescriptlang.org/)
@@ -18,7 +18,7 @@ maintained by an ai robot 🤖, with a human pressing merge.
 ## getting started
 
 ```bash
-git clone https://github.com/BartoszJarocki/cv.git
+git clone https://github.com/asha-rao/cv.git
 cd cv
 pnpm install
 pnpm dev
